@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kartikey
 - 👀 I’m interested in Tech, AI and Visual Computing
-- 🌱 I’m currently learning MEAN Stack
+- 🌱 I’m currently learning how to make embedded Generative AI SaaS 
 - 📫 Reach me kartikey101@gmail.com or kartikey@blacksof.com
 
 <!---
